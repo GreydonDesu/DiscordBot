@@ -1,5 +1,5 @@
 # DiscordBot 
-This will become a collection of Discord Bots I (may) code with varying purposes, functionality and features.
+This will become a collection of Discord bots I (may) develop with varying purposes, functionality and features.
 
 ## Author
 **Grey | GreydonDesu**
